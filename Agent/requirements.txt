@@ -1,0 +1,5 @@
+aiohttp
+uagents
+uagents-core
+hyperon
+PyPDF2

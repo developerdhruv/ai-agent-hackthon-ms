@@ -1,0 +1,18 @@
+{
+    "resume-agent---": {
+        "identity_key": "da941dc868487ccc4659a731f3827d5d8b4eedf5ddf7c41ce83a942e4986701c",
+        "wallet_key": "3RzSUY8GFZzn1NDy5Uj1gmRodeNcab7o5yMXnCK5CK8="
+    },
+    "resume-analyzer-agent": {
+        "identity_key": "0ed6f8c92dbaba903bacb3af03219b0ad3fd4ed6ee16cc588f749e22df00770a",
+        "wallet_key": "v5aFkl8V9K42slYVKEhoS+RWKYgXoiNNLeWg/SBCli4="
+    },
+    "roadmap-agent": {
+        "identity_key": "f2929fca2e36cf05f5448e352876213f109c3ac5a5215e4844aaaad760903714",
+        "wallet_key": "LN9xEk48WXzQH4nTZsotJ7c6mpSdbzhnwjIffYTiFEg="
+    },
+    "ai-interviewer-agent": {
+        "identity_key": "f05b4b14dfaebfd399a456224e9cc2ff80b5fa401210156eb3ecbcbdd11af3a8",
+        "wallet_key": "8L2DdUuP6qN3S1VBwNw43Nfprh4/3lSFn9tMQ+EKs4Y="
+    }
+}
