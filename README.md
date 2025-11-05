@@ -68,9 +68,9 @@
 ![scannedhistory](https://github.com/user-attachments/assets/b014dc92-99f1-45c0-b629-198d177c5246)
 
 ### 🕵️ Agent Inspector
-![agentinspector1](https://github.com/user-attachments/assets/agentinspector1.png)
-![agentinspector2](https://github.com/user-attachments/assets/agentinspector2.png)
-
+![agentinspector1](asset/ai-interview.png)
+![agentinspector2](asset/resume-agent.png)
+![agentinspector3](asset/resume-analyzer.png)
 ## Build by:
 Dhruv Kumar
 
