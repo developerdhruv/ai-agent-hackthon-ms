@@ -13,13 +13,7 @@
 
 ## 🛠️ Tech Stack
 
-| Layer         | Tech                            |
-|--------------|----------------------------------|
-| Frontend     | React + Tailwind CSS (Next.js)   |
-| Backend      | Next.js API Routes (Serverless)  |
-| AI Services  | Fetch.ai ASI  |
-|
-
+| Layer       >>>>>>>>>>>?>
 
 # 🤖 Agent Highlights (for Skill Fest)
 
@@ -27,7 +21,7 @@
 |----------------------|----------------------------------|
 | ATSScannerAgent    | Resume evaluation and suggestions      |
 | JobMatchAgent      | Personalized job recommendations       |
-| MockInterviewAgent | AI-based interview simulation          |
+| MockInterviewAgent | AI-basedu u interview simulation          |
 | SkillGuideAgent    | Skill improvement and learning roadmap |
 | CVBuilderAgent     | Tailored resume creation               |
 
@@ -73,7 +67,9 @@
 ### History
 ![scannedhistory](https://github.com/user-attachments/assets/b014dc92-99f1-45c0-b629-198d177c5246)
 
-
+### 🕵️ Agent Inspector
+![agentinspector1](https://github.com/user-attachments/assets/agentinspector1.png)
+![agentinspector2](https://github.com/user-attachments/assets/agentinspector2.png)
 
 ## Build by:
 Dhruv Kumar
