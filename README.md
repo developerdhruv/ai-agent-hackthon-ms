@@ -67,13 +67,19 @@
 ### History
 ![scannedhistory](asset/history.png)
 
-### 🕵️ Agent Inspector
-![agentinspector2](asset/resume-agent.png)
-![agentinspector1](asset/ai-interview.png)
-![agentinspector3](asset/roadmap-1.png)
-
+### Agents Link:
+[AI-Interviewer](https://agentverse.ai/agents/details/agent1qgw9t5umr047p5pepuugrws5lzav0s2qhgeht6hghy8r8j5a7un7uvqvmcj/profile
+)
+<br/>
+[Resume-Analyser](https://agentverse.ai/agents/details/agent1qtsx65dg06vkkyq0u5w0mtv7enqu6hwt5cyerx3ggnd9z5j26uhaylngre9/profile)
+<br/>
+[Roadmap-Agent](https://agentverse.ai/agents/details/agent1q0w43dyhlwzldgksfpzw8gdt09sw8gt6nsrqgtdh76466fa50aulx70lnw5/profile)
+<br/>
+[Resume-Generator](https://agentverse.ai/agents/details/agent1qvr9gefmhwsfg6vp7y7nqc2pecxs4r6xsrpju3w58u7a0a8cuzgxkmhtua2/profile)
 ### With ASI One
 ![asichat](asset/roadmap.png)
+![asichat1](asset/resume-analysis-asi.png)
+
 ## Build by:
 Dhruv Kumar
 
