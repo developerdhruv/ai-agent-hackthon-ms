@@ -65,11 +65,10 @@
 ![skill](https://github.com/user-attachments/assets/be3c5957-0d4e-4685-a615-2d364c9f865b)
   
 ### History
-![scannedhistory](https://github.com/user-attachments/assets/b014dc92-99f1-45c0-b629-198d177c5246)
-
+![scannedhistory](asset/history.png)
 ### 🕵️ Agent Inspector
-![agentinspector1](asset/ai-interview.png)
 ![agentinspector2](asset/resume-agent.png)
+![agentinspector1](asset/ai-interview.png)
 ![agentinspector3](asset/resume-analyzer.png)
 ## Build by:
 Dhruv Kumar
